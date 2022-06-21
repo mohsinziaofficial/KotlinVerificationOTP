@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "253711702626",
+    "project_id": "kotlin-otp-verification",
+    "storage_bucket": "kotlin-otp-verification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253711702626:android:ee8bb6df8d5dcf6381cf3b",
+        "android_client_info": {
+          "package_name": "com.mohsin.kotlinverificationotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253711702626-4lsp68a2gjk8ohvuf70u3f4vah399psr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohsin.kotlinverificationotp",
+            "certificate_hash": "ac4d2d112c970c48433f911c9afd12847aecca78"
+          }
+        },
+        {
+          "client_id": "253711702626-6dojmsam7svumjb6a3omvdsa116pc098.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsgUiqkUGJLvEjqG7SAOuIi0_H0MB5oi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253711702626-6dojmsam7svumjb6a3omvdsa116pc098.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
